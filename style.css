@@ -1,0 +1,60 @@
+.water{
+    width: 100%;
+    height: 100%;
+}
+.nat{
+    position: relative;
+}
+.text{
+    position: absolute;
+    top: 10%; 
+    right: 50%;
+    color:white;
+    font-size:2rem;
+}
+.button{
+    position: absolute;
+    bottom: 40%;
+    background-color: green;
+    font-size: 20px;
+    left:60%;
+    border-radius: 5px;
+    color: aliceblue;
+    padding: 0%;
+}
+.mountains{
+    width:100%;
+    height:500px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.question{
+    background-color: lightgrey;
+    width:500px;
+    margin-right:80px;
+    float:right;
+}
+h1{
+    font:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.changes{
+    background-color: lightgrey;
+    width:500px;
+    margin-left: 70px;
+}
+.img-1{
+   margin-left: 50px;
+   padding: 5px;
+}
+.text1{
+    background-color: rgb(252, 249, 249);
+}
+.pics{
+  display: flex;
+  gap:50px;
+}
+.img-1, .img-2{
+    flex:1;
+}
+
